@@ -1,0 +1,28 @@
+{
+  "registrations": [
+    {
+      "admissionDate": "22/10/2023",
+      "email": "luiz@caju.com.br",
+      "employeeName": "Luiz Filho",
+      "status": "APROVED",
+      "cpf": "56642105087",
+      "id": "3"
+    },
+    {
+      "id": "8ccd",
+      "admissionDate": "16/10/2024",
+      "email": "teste@gmail.com",
+      "employeeName": "teste nome",
+      "status": "REPROVED",
+      "cpf": "68738264056"
+    },
+    {
+      "id": "7b47",
+      "admissionDate": "12/10/2024",
+      "email": "tes@gmai.com",
+      "employeeName": "maria nome",
+      "status": "REVIEW",
+      "cpf": "82205549081"
+    }
+  ]
+}
